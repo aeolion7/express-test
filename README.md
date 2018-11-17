@@ -1,7 +1,5 @@
 ## express-test
 
----
-
 Visiting "/" should print "Hi there, welcome to my assignment!"
 
 ---
